@@ -4,8 +4,8 @@ http://www.mactech.com/conference/about
 
 Download a zip archive [here](https://github.com/gregneagle/mtc2013_python/archive/master.zip).
 
-Or git clone the repo:
-git clone https://github.com/gregneagle/mtc2013_python.git
+Or git clone the repo:<br/>
+`git clone https://github.com/gregneagle/mtc2013_python.git`
 
 We recommend you use a text editor designed for coding use during the workshop;  TextWrangler is free. Download it [here](http://www.barebones.com/products/textwrangler/download.html).
 
