@@ -1,6 +1,6 @@
 This repository contains code snippets and code examples for use with the MacTech Conference 2013 workshop "Python for Systems Administrators"
 
-(http://www.mactech.com/conference/about)
+http://www.mactech.com/conference/about
 
 Download a zip archive [here](https://github.com/gregneagle/mtc2013_python/archive/master.zip).
 
