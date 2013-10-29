@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''Uses Cocoa classes via PyObjC to set a random desktop picture on all screens.
-Tested on Mountain Lion.
+Tested on Mountain Lion and Mavericks.
 
 See:
 https://developer.apple.com/library/mac/documentation/cocoa/reference/applicationkit/classes/NSWorkspace_Class/Reference/Reference.html
