@@ -1,9 +1,9 @@
 import plistlib
 filename = "/Applications/Safari.app/Contents/Info.plist"
-plistinfo = plistlib.readPlist(filename)
-plistinfo["CFBundleGetInfoString"]
+info = plistlib.readPlist(filename)
+info["CFBundleGetInfoString"]
 
-version =  plistinfo["CFBundleShortVersionString"]
+version =  info["CFBundleShortVersionString"]
 print version
 
 print info["CFBundleURLTypes"]
